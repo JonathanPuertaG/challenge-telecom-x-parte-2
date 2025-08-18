@@ -63,12 +63,13 @@ Para ejecutar este proyecto necesitas tener instalado:
 
 1. Clona este repositorio:
 
+```bash
 git clone https://github.com/JonathanPuertaG/challenge-telecom-x-parte-2.git
 cd challenge-telecom-x-parte-2
 
 2. Abre el notebook en Jupyter o Google Colab:
 
-jupyter notebook Telecom_X2.ipynb
+`jupyter notebook Telecom_X2.ipynb`
 
 3. Ejecuta las celdas paso a paso siguiendo la estructura.
 
@@ -80,5 +81,5 @@ jupyter notebook Telecom_X2.ipynb
 
 - Conclusiones que orientan la retención de clientes en la empresa.
 
-✨ Autor
+#✨ Autor
 Jonathan Puerta
