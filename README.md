@@ -61,17 +61,17 @@ Para ejecutar este proyecto necesitas tener instalado:
 
  ## 🚀 Cómo ejecutar el proyecto
 
-1. Clona este repositorio:
+### 1. Clona este repositorio:
 
 ```bash
 git clone https://github.com/JonathanPuertaG/challenge-telecom-x-parte-2.git
 cd challenge-telecom-x-parte-2
 
-2. Abre el notebook en Jupyter o Google Colab:
+### 2. Abre el notebook en Jupyter o Google Colab:
 
 `jupyter notebook Telecom_X2.ipynb`
 
-3. Ejecuta las celdas paso a paso siguiendo la estructura.
+### 3. Ejecuta las celdas paso a paso siguiendo la estructura.
 
 ## 📈 Resultados esperados
 
