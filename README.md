@@ -65,7 +65,7 @@ Para ejecutar este proyecto necesitas tener instalado:
 
 ```bash
 git clone https://github.com/JonathanPuertaG/challenge-telecom-x-parte-2.git
-cd challenge-telecom-x-parte-2```
+cd challenge-telecom-x-parte-2
 
 2. Abre el notebook en Jupyter o Google Colab:
 
