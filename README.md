@@ -80,5 +80,5 @@ cd challenge-telecom-x-parte-2`
 
 - Conclusiones que orientan la retención de clientes en la empresa.
 
-# Autor
+## 👤 Autor
 Jonathan Puerta
