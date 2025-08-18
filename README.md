@@ -58,3 +58,27 @@ Para ejecutar este proyecto necesitas tener instalado:
 - Librerías:  
   ```bash
   pip install pandas numpy matplotlib seaborn scikit-learn xgboost
+
+ ## 🚀 Cómo ejecutar el proyecto
+
+1. Clona este repositorio:
+
+git clone https://github.com/JonathanPuertaG/challenge-telecom-x-parte-2.git
+cd challenge-telecom-x-parte-2
+
+2. Abre el notebook en Jupyter o Google Colab:
+
+jupyter notebook Telecom_X2.ipynb
+
+3. Ejecuta las celdas paso a paso siguiendo la estructura.
+
+## 📈 Resultados esperados
+
+- Comparación de desempeño entre distintos modelos de clasificación.
+
+- Identificación de las variables más importantes para explicar el Churn.
+
+- Conclusiones que orientan la retención de clientes en la empresa.
+
+✨ Autor
+Jonathan Puerta
